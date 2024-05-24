@@ -9,7 +9,7 @@ interface and navigate between different screens
 
 <br> <img src="screenshots/screen-2.png" alt="Screenshot">
 
-<br> <img src="screenshots/app.gif" alt="Screenshot" width=800 height=800>
+<br> <img src="screenshots/app.gif" alt="Screenshot"  height=800>
 
 ## Features
 
